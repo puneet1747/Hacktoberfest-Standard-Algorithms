@@ -112,6 +112,7 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
     ├── bfs-shorteat-path-grid.cpp
     ├── bfs-shortest-path-list.cpp
     ├── bipartite-graph-dfs.cpp
+    ├── bridges.cpp
     ├── cycles-one-dfs.cpp
     ├── dfs-recursion-list.cpp
     ├── dijkstra-shortest-path-dfs.cpp
